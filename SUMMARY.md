@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Test Chapter 1](README.md)
+* [Preface](README.md)
 * [What is Git?](what-is-git.md)
 * [How to install GIT?](test-chapter-2/README.md)
   * [Test child page Chapter 2](test-chapter-2/test-child-page-chapter-2.md)
