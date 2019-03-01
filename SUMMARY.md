@@ -2,10 +2,10 @@
 
 * [Preface](README.md)
 * [What is Git?](what-is-git.md)
-* [How to install GIT?](test-chapter-2/README.md)
-  * [Test child page Chapter 2](test-chapter-2/test-child-page-chapter-2.md)
 * [What is BitBucket?](what-is-bitbucket.md)
 * [What is JIRA?](what-is-jira.md)
+* [How to install GIT?](test-chapter-2/README.md)
+  * [Test child page Chapter 2](test-chapter-2/test-child-page-chapter-2.md)
 * [What git can do](what-git-can-do.md)
 * [How to configure GIT, check configuration, get help, get version number](how-to-configure-git-check-configuration-get-help-get-version-number.md)
 * [Basic workflow for stress testing team](basic-workflow-for-stress-testing-team.md)
