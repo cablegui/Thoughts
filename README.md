@@ -16,5 +16,7 @@ Chaos loves this. He knows we are fallible human beings. He knows we forget how 
 
 This book is primarily meant to support beginners and seasoned users in the CRM credit stress testing team as a ready reference manual. Typical workflows recognizable to members of the team will be shown thru several sections in the book. Even then, this book has sections written in a cookbook fashion and could help answer questions that a user from any department would have.
 
+## How can you contact me?
 
+You can email me at neville.andrade@gmail.com \(preferred\) or neville.andrade@db.com
 
