@@ -23,4 +23,6 @@
 * [Undoing mistakes in git](undoing-mistakes-in-git.md)
 * [How to Stash your work?](how-to-stash-your-work.md)
 * [How to manage your projects thru Git SAS, R, Python](how-to-manage-your-projects-thru-git-sas-r-python.md)
+* [How to use Bitbucket](how-to-use-bitbucket.md)
+* [JIRA workflows](jira-workflows.md)
 
