@@ -6,6 +6,7 @@
 * [What is JIRA?](what-is-jira.md)
 * [What you need to get working with GIT, Bitbucket and JIRA](test-chapter-2/README.md)
   * [Installing Git](test-chapter-2/test-child-page-chapter-2.md)
+  * [Configuration settings](test-chapter-2/configuration-settings.md)
   * [Git Cheat sheet](test-chapter-2/git-cheat-sheet.md)
 * [GIT workflows](what-git-can-do.md)
 * [How to configure GIT, check configuration, get help, get version number](how-to-configure-git-check-configuration-get-help-get-version-number.md)
