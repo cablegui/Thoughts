@@ -1,2 +1,2 @@
-# What git can do
+# GIT workflows
 

@@ -2,7 +2,7 @@
 description: Testing chapter 2
 ---
 
-# How to install GIT?
+# What you need to get working with GIT, Bitbucket and JIRA
 
 Hello there again!!  
 How are you doing??
