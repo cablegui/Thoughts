@@ -1,6 +1,6 @@
 # Installing Git
 
-## Deutsche Bank Automated Software distribution
+## Automated Software distribution
 
 1. Git can be downloaded from the official software packaging resource. The link is [https://asd.tools.intranet.db.com](https://asd.tools.intranet.db.com). Add to cart the application **1524048-CMW7M6 GIT VERSION 2.17.1.2 64 Bit** . The software will be delivered to you by the Software Center interface.
 

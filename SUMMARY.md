@@ -6,14 +6,7 @@
 * [What is JIRA?](what-is-jira.md)
 * [What you need to get working with GIT, Bitbucket and JIRA](test-chapter-2/README.md)
   * [Installing Git](test-chapter-2/test-child-page-chapter-2.md)
-  * [Configuration settings](test-chapter-2/configuration-settings.md)
-  * [Installing Bitbucket](test-chapter-2/installing-bitbucket.md)
-  * [JIRA and Trello integration](test-chapter-2/jira-and-trello-integration.md)
-  * [Continuous Integration\Continuous Delivery using Bitbucket](test-chapter-2/continuous-integration-continuous-delivery.md)
-  * [Installing Github](test-chapter-2/installing-github.md)
-  * [Github Issue management](test-chapter-2/github-issue-management.md)
-  * [Travis Continuous Integration](test-chapter-2/travis-continuous-integration.md)
-  * [Git Cheat sheet](test-chapter-2/git-cheat-sheet.md)
+  * [Git configuration settings](test-chapter-2/configuration-settings.md)
 * [GIT workflows](what-git-can-do.md)
 * [How to configure GIT, check configuration, get help, get version number](how-to-configure-git-check-configuration-get-help-get-version-number.md)
 * [Basic workflow for stress testing team](basic-workflow-for-stress-testing-team.md)
@@ -33,4 +26,17 @@
 * [How to manage your projects thru Git SAS, R, Python](how-to-manage-your-projects-thru-git-sas-r-python.md)
 * [How to use Bitbucket](how-to-use-bitbucket.md)
 * [JIRA workflows](jira-workflows.md)
+
+## Appendix
+
+* [Git Cheat sheet](new-group/git-cheat-sheet.md)
+
+## Extra Content
+
+* [Installing Github](extra-content/installing-github.md)
+* [Installing Bitbucket](extra-content/installing-bitbucket.md)
+* [Continuous Integration\Continuous Delivery using Bitbucket](extra-content/continuous-integration-continuous-delivery.md)
+* [JIRA and Trello integration](extra-content/jira-and-trello-integration.md)
+* [Github Issue management](extra-content/github-issue-management.md)
+* [Travis Continuous Integration](extra-content/travis-continuous-integration.md)
 
