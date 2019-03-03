@@ -4,7 +4,7 @@ description: Write to me @ neville.andrade@gmail.com or neville.andrade@db.com
 
 # Preface
 
-In this world of information overload I set out on a journey to beat the god of chaos. This book is a first in a series of quests to accomplish that goal. My name is Neville Andrade. I work as a risk manager in the credit stress testing department in Deutsche Bank. In my role my team work with a lot of software code written in languages like SAS, R and Python. The demon of chaos pokes his head into my kingdom in the form of
+In this world of information overload I set out on a journey to beat the god of chaos. This book is a first in a series of quests to accomplish that goal. My name is Neville Andrade. I work as a risk manager in the credit stress testing department in a bank. In my role my team work with a lot of software code written in languages like SAS, R and Python. The demon of chaos pokes his head into my kingdom in the form of
 
 * Code being sent thru emails
 * Code being saved in obscure locations. 
