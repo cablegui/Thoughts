@@ -12,7 +12,7 @@ As a project manager one can also setup workflows for your team. For example sim
 * If a task is **resolved** then next it can move to **closed**
 * If task is **closed** it could be **reopened** for whatever reason and the cycle starts again
 
-![A simple workflow concept](.gitbook/assets/image%20%288%29.png)
+![A simple workflow concept](.gitbook/assets/image%20%2811%29.png)
 
 There are other more complicated work flows than this for issue types like  defects or enhancement requests are required. Issue types usually fall in 4 major classes
 
