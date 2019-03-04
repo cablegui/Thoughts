@@ -2,7 +2,7 @@
 
 Some of you may prefer a more graphical user interface \(gui\) based approach to work rather than git's dull looking command line interface. If so then a preferable GIT client software TORTOISEGIT is preferable for you. In future chapters I show how to's with both the command line tools and with TORTOISEGIT.
 
-TORTOISEGIT can be requisitioned from via the Automated Software Distribution webpage [https://asd.tools.intranet.db.com/ASD2/appsearch?language=1](https://asd.tools.intranet.db.com/ASD2/appsearch?language=1)
+TORTOISEGIT can be requisitioned from the Automated Software Distribution webpage [https://asd.tools.intranet.db.com/ASD2/appsearch?language=1](https://asd.tools.intranet.db.com/ASD2/appsearch?language=1)
 
 ![TORTOISEGIT 2.7.0.0 \(64 Bit\) in ASD](../.gitbook/assets/image%20%282%29.png)
 
