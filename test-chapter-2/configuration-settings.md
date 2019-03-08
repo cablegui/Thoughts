@@ -31,7 +31,7 @@ Notice that the email does not have quotes around it.
 
 Usually when working with git the default editor is  vim. This is important when we write commit messages for committing our work into the repository as git explicitly asks for entering some text whenever you commit some code. Though vim is quite a powerful editor it is not in everyones interest to understand how it works.
 
-![Here is my git configuration run with command &quot;vim ~/.gitconfig&quot; in bash shell](../.gitbook/assets/image%20%281%29.png)
+![Here is my git configuration run with command &quot;vim ~/.gitconfig&quot; or &quot;git config --global --edit&quot; in bash shell](../.gitbook/assets/image%20%281%29.png)
 
 If not comfortable with vim then best solution is to use an editor which you personally prefer. To change these editor settings please follow the following steps.
 

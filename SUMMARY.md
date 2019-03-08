@@ -8,6 +8,8 @@
   * [Installing Git](test-chapter-2/test-child-page-chapter-2.md)
   * [Git configuration settings](test-chapter-2/configuration-settings.md)
   * [Installing TortoiseGIT \(optional\)](test-chapter-2/installing-tortoisegit-optional.md)
+  * [Configuring Bitbucket access](test-chapter-2/configuring-bitbucket-access.md)
+  * [Configuring JIRA access](test-chapter-2/configuring-jira-access.md)
 * [GIT workflows](what-git-can-do.md)
 * [How to configure GIT, check configuration, get help, get version number](how-to-configure-git-check-configuration-get-help-get-version-number.md)
 * [Basic workflow for stress testing team](basic-workflow-for-stress-testing-team.md)
