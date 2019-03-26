@@ -2,7 +2,7 @@
 
 A workflow is a set of guidelines on how to get from point A to point B. 
 
-![How to get from point A to B?](.gitbook/assets/image%20%2827%29.png)
+![How to get from point A to B?](../.gitbook/assets/image%20%2827%29.png)
 
 Git provides several workflow methods to accomplish work in a productive manner. After discussing the several workflows commonly used in Git the next chapter focuses on the workflow most suitable for the individual research project \(centralized\), regular stress testing \(feature branch\) team, ECB stress testing \(Gitflow\), intra team projects \(forking\)
 
@@ -25,6 +25,7 @@ I will discuss 4 different types of workflows and in which settings they are bes
 * Forking workflow
   * Best when working on projects involving collaboration between teams
   * Used in very large open source projects
-  * Project maintainer can work on enhancing features in the official repo and does not have to worry about authentication of other developers on the official repo. Other developers can just fork the maintainers repo and push any changes to the forked repo.
-  * Other developers who fork the official repo can send a pull request to the project maintainer who can merge or reject the changes if the repo is an open source. If not open source then 
+  * Project maintainer maintains the official repo on the server. Other developers can fork this repo thus making a copy of the official repo on their own server.
+  * Project maintainer can work on enhancing features in the official repo and does not have to worry about authentication of other developers on the official repo. Other developers can just fork the maintainers repo and push any changes to their own forked repo on their own server.
+  * Other developers who fork the official repo can send a pull request to the project maintainer who can merge or reject the changes. Merged changes then become part of the official repo if the project maintainer approves it.
 
