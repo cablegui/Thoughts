@@ -10,7 +10,7 @@ In this world of information overload I set out on a journey to beat the god of 
 * Code being saved in obscure locations. 
 * Wrong code being used in production because of whatever reasons
 
-Chaos loves this. He knows we are fallible human beings. He knows we forget how diligent we tend to think of ourselves to be. He knows it gets worse as long as he is allowed in the kingdom. And he loves every minute of it with chimichangas of course. This book is thus an attempt to beat him. 
+Chaos loves this. He knows we are fallible human beings. He knows we forget how diligent we tend to think of ourselves to be. He knows it gets worse as long as he is allowed in the kingdom. And he loves every minute of it with chimichangas of course. This book is thus an attempt to beat him. This book explains how to use the Git software. The aim is to make Git accessible to non computer science people.  
 
 ![The god of chaos](.gitbook/assets/deadpool.PNG)
 
