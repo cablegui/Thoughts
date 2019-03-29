@@ -17,7 +17,11 @@ The questions
 
 Let me now give an example. 
 
-The setup is a research project called "Spy talk". The project name is a dead give away of what the company funding that project deals in. The company specialises in, lets say, providing spy solutions to governments who can pay the price. Two brilliant and highly skilled researchers Neville and Rosa are working on the project. Neville and Rosa are both electronics and communication specialists and have worked on many military projects together. Neville is the project lead and maintains the remote repository located on a bitbucket server.
+The setup is a research project called "Spy talk". The project name is a dead give away of what the company funding that project deals in. The company specialises in, lets say, providing spy solutions to governments who can pay the price. Two brilliant and highly skilled researchers Neville and Rosa are working on the project. Neville and Rosa are both electronics and communication specialists and have worked on many military projects together. 
+
+![Spy talk project](../.gitbook/assets/image%20%2816%29.png)
+
+Neville is the project lead and maintains the remote repository located on a bitbucket server.
 
 The project has 3 modules and a documentation section. 
 
@@ -30,19 +34,25 @@ Now here you can see that Neville and Rosa work independently on two modules eac
 
 Lets have a look at the project structure on the bitbucket server.
 
- 
-
-![spytalk repo with a readme doc and 2 folders](../.gitbook/assets/image%20%2826%29.png)
+![spytalk repo with a readme doc and 2 folders](../.gitbook/assets/image%20%2829%29.png)
 
 ![modules folder contents](../.gitbook/assets/image.png)
 
-![documentation folder contents](../.gitbook/assets/image%20%2833%29.png)
+![documentation folder contents](../.gitbook/assets/image%20%2836%29.png)
 
 The bitbucket repo is the remote repo. It is the birthplace of the project. It is maintained on an online server. Neville and Rosa will make local copies or clones of the repo in their personal machines.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
-Neither Rosa nor Neville \(even though he is the project admin\) can edit the contents of the files on the server. They need to create a clone of the repo on their local machines. Lets have a look at each of their 
+Neither Rosa nor Neville \(even though he is the project admin\) can edit the contents of the files on the server. They need to create a clone of the repo on their local machines. Lets have a look at each of their folders in git bash.
+
+![Neville&apos;s git bash folder view](../.gitbook/assets/image%20%2818%29.png)
+
+![Rosa&apos;s git bash folder](../.gitbook/assets/image%20%281%29.png)
+
+Now lets look at how they both work individually and together on the files in their project. Remember Neville maintains the transmitter module and Rosa maintains the receiver module and they both mange the encoder decoder modules and the documentation. Lets look at Nevilles workflow first.
+
+
 
 
 

@@ -2,7 +2,7 @@
 
 A workflow is a set of guidelines on how to get from point A to point B. 
 
-![How to get from point A to B?](../.gitbook/assets/image%20%2830%29.png)
+![How to get from point A to B?](../.gitbook/assets/image%20%2833%29.png)
 
 Git provides several workflow methods to accomplish work in a productive manner. After discussing the several workflows commonly used in Git the next chapter focuses on the workflow most suitable for the individual research project \(centralized\), regular stress testing \(feature branch\) team, ECB stress testing \(Gitflow\), intra team projects \(forking\)
 
