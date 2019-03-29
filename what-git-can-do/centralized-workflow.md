@@ -17,21 +17,28 @@ The questions
 
 Let me now give an example. 
 
-The setup is a research project called "Spy talk". The project name is a dead give away of what the company funding that project deals in. The company specialises in, lets say, providing spy solutions to governments who can pay the price. Two brilliant and highly skilled researchers Neville and Rosa are working on the project. Neville and Rosa are both electronics and communication specialists and have worked on many military projects together. 
+The setup is a research project called "Spy talk". The project name is a dead give away of what the company funding that project deals in. The company specialises in, lets say, providing spy solutions to governments who can pay the price. Two brilliant and highly skilled researchers Neville and Rosa are working on the project. Neville and Rosa are both electronics and communication specialists and have worked on many military projects together. Neville is the project lead and maintains the remote repository located on a bitbucket server.
 
 The project has 3 modules and a documentation section. 
 
-1. The Transmitter module
-2. The Receiver module
-3. The Encoder Decoder module
-4. Documentation
+1. The Transmitter module \(maintained by Neville\)
+2. The Receiver module \(maintained by Rosa\)
+3. The Encoder Decoder module \(maintained by Neville and Rosa\)
+4. Documentation \(maintained by Neville and Rosa\)
 
-The modules are usually maintained in the following way
+Now here you can see that Neville and Rosa work independently on two modules each but collaborate with each other on one of the modules and also on the documentation.
 
-1. The Transmitter module \(Neville\)
-2. The Receiver module \(Rosa\)
-3. The Encoder Decoder module \(Neville and Rosa\)
-4. Documentation \(Neville and Rosa\)
+Lets have a look at the project structure on the bitbucket server.
+
+ 
+
+![spytalk repo with a readme doc and 2 folders](../.gitbook/assets/image%20%2825%29.png)
+
+![modules folder contents](../.gitbook/assets/image.png)
+
+![documentation folder contents](../.gitbook/assets/image%20%2832%29.png)
+
+
 
 
 

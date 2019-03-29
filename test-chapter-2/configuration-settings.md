@@ -10,11 +10,11 @@ Setting up the user name and email id
 
 1. Open a bash command prompt
 
-![Select the Git Bash command prompt](../.gitbook/assets/image%20%2813%29.png)
+![Select the Git Bash command prompt](../.gitbook/assets/image%20%2814%29.png)
 
 2. The bash prompt looks like this
 
-![Git bash prompt](../.gitbook/assets/image%20%2826%29.png)
+![Git bash prompt](../.gitbook/assets/image%20%2828%29.png)
 
 3. Type the following commands
 
@@ -31,7 +31,7 @@ Notice that the email does not have quotes around it.
 
 Usually when working with git the default editor is  vim. This is important when we write commit messages for committing our work into the repository as git explicitly asks for entering some text whenever you commit some code. Though vim is quite a powerful editor it is not in everyones interest to understand how it works.
 
-![Here is my git configuration run with command &quot;vim ~/.gitconfig&quot; or &quot;git config --global --edit&quot; in bash shell](../.gitbook/assets/image%20%281%29.png)
+![Here is my git configuration run with command &quot;vim ~/.gitconfig&quot; or &quot;git config --global --edit&quot; in bash shell](../.gitbook/assets/image%20%282%29.png)
 
 If not comfortable with vim then best solution is to use an editor which you personally prefer. To change these editor settings please follow the following steps.
 
@@ -44,11 +44,11 @@ r -nosession -noPlugin"
 
 The config file will now have the editor set to notepad++ to open
 
-![Editor settings now changed from vim to Notepad++](../.gitbook/assets/image%20%2820%29.png)
+![Editor settings now changed from vim to Notepad++](../.gitbook/assets/image%20%2821%29.png)
 
 The editor which opens when committing code will now default to Notepad++
 
-![Notepad++ editor to write your commits](../.gitbook/assets/image%20%2822%29.png)
+![Notepad++ editor to write your commits](../.gitbook/assets/image%20%2823%29.png)
 
 If you prefer to use the simpler windows notepad instead set the editor to
 
