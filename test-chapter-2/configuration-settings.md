@@ -14,7 +14,7 @@ Setting up the user name and email id
 
 2. The bash prompt looks like this
 
-![Git bash prompt](../.gitbook/assets/image%20%2828%29.png)
+![Git bash prompt](../.gitbook/assets/image%20%2829%29.png)
 
 3. Type the following commands
 
@@ -44,11 +44,11 @@ r -nosession -noPlugin"
 
 The config file will now have the editor set to notepad++ to open
 
-![Editor settings now changed from vim to Notepad++](../.gitbook/assets/image%20%2821%29.png)
+![Editor settings now changed from vim to Notepad++](../.gitbook/assets/image%20%2822%29.png)
 
 The editor which opens when committing code will now default to Notepad++
 
-![Notepad++ editor to write your commits](../.gitbook/assets/image%20%2823%29.png)
+![Notepad++ editor to write your commits](../.gitbook/assets/image%20%2824%29.png)
 
 If you prefer to use the simpler windows notepad instead set the editor to
 

@@ -14,7 +14,7 @@ You can also right click on any file in your folder and within the drop down you
 
 TORTOISEGIT offers the ability to make configuration changes as seen in the previous chapter via a settings menu
 
-![One can change configuration settings thru TORTOISEGIT too](../.gitbook/assets/image%20%2831%29.png)
+![One can change configuration settings thru TORTOISEGIT too](../.gitbook/assets/image%20%2832%29.png)
 
-![The .gitconfig file as in previous chapter](../.gitbook/assets/image%20%2820%29.png)
+![The .gitconfig file as in previous chapter](../.gitbook/assets/image%20%2821%29.png)
 

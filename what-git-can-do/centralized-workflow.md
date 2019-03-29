@@ -32,13 +32,17 @@ Lets have a look at the project structure on the bitbucket server.
 
  
 
-![spytalk repo with a readme doc and 2 folders](../.gitbook/assets/image%20%2825%29.png)
+![spytalk repo with a readme doc and 2 folders](../.gitbook/assets/image%20%2826%29.png)
 
 ![modules folder contents](../.gitbook/assets/image.png)
 
-![documentation folder contents](../.gitbook/assets/image%20%2832%29.png)
+![documentation folder contents](../.gitbook/assets/image%20%2833%29.png)
 
+The bitbucket repo is the remote repo. It is the birthplace of the project. It is maintained on an online server. Neville and Rosa will make local copies or clones of the repo in their personal machines.
 
+![](../.gitbook/assets/image%20%2815%29.png)
+
+Neither Rosa nor Neville \(even though he is the project admin\) can edit the contents of the files on the server. They need to create a clone of the repo on their local machines. Lets have a look at each of their 
 
 
 
