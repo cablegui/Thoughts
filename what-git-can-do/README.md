@@ -14,12 +14,12 @@ I will discuss 4 different types of workflows and in which settings they are bes
   * All members work on a single master branch and not branches of the master
   * Best for maintaining documentation
 * Feature branch workflow
-  * Best for small \(5 to 10\) to medium \(max 20\) size teams working on project code **not** **tied** to release cycles
-  * Best for maintaining production code for running systems because it requires the main master branch contains cleans code
+  * Best for medium to large teams teams working on project code **tied** to release cycles
+  * Best for maintaining production code for running systems because it requires that the main master branch contains cleans code
   * Best workflow to implement continous integration environments. Continuous integration environments are code, build, test and deploy frameworks which ensure that well tested code changes dont break the production system.
   * Best way to comment on code features or bug fixes via the bitbucket pull request system
 * Gitflow workflow
-  * Best for small \(5 to 10\) to medium \(max 20\) size teams working on project code **tied** to release cycles
+  * Ideally best for small \(5 to 10\) size teams working on project code **tied** to release cycles
   * Best for very concentrated projects with deadlines
   * Also implements the Feature branch workflow
 * Forking workflow

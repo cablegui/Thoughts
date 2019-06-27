@@ -34,7 +34,7 @@
 * [How to use Bitbucket](how-to-use-bitbucket.md)
 * [JIRA workflows](jira-workflows.md)
 
-## Appendix
+## Appendix <a id="new-group"></a>
 
 * [Git Cheat sheet](new-group/git-cheat-sheet.md)
 
